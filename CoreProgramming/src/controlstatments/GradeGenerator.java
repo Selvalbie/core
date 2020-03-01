@@ -1,9 +1,6 @@
 package controlstatments;
-
 import java.util.Scanner;
-
 public class GradeGenerator {
-
 	public static void main(String[] args) {
 		System.out.println("Enter the marks");
 		Scanner scan = new Scanner(System.in);
@@ -27,5 +24,4 @@ public class GradeGenerator {
 		System.out.println("your grade status is "+grade);
 		System.out.println("welcome");
 	}
-
 }
