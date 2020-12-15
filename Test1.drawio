@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-15T09:04:07.042Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.60" etag="9812obOtxdvAHxPMojiF" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-15T09:06:31.703Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.60" etag="5JPOkmMuszQv70WRNrw7" version="14.0.1" type="github">
   <diagram id="9zxnPsf4vjS2p4SLaJOQ" name="Page-1">
     <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -22,19 +22,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="A2wn87dOWXjLFqYL0kad-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.567;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="A2wn87dOWXjLFqYL0kad-11" target="A2wn87dOWXjLFqYL0kad-16" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="280" y="320" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="280" y="330" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="A2wn87dOWXjLFqYL0kad-11" value="&lt;span style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;CHOSE WHICH QUESTION PATTERN&lt;/font&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="316" y="260" width="170" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="A2wn87dOWXjLFqYL0kad-16" value="DEMO&lt;br&gt;FOR 15 QUESTIONS" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="212" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A2wn87dOWXjLFqYL0kad-17" value="MOCK QUESTIONS&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="480" y="400" width="120" height="60" as="geometry" />
@@ -45,22 +34,12 @@
         <mxCell id="A2wn87dOWXjLFqYL0kad-18" value="Civil services" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="341" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A2wn87dOWXjLFqYL0kad-20" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="280" y="460" as="sourcePoint" />
-            <mxPoint x="280" y="520" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="A2wn87dOWXjLFqYL0kad-21" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="520" y="460" as="sourcePoint" />
             <mxPoint x="520" y="520" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="A2wn87dOWXjLFqYL0kad-22" value="RESULTS" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="200" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A2wn87dOWXjLFqYL0kad-23" value="RESULTS" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="470" y="520" width="120" height="60" as="geometry" />
